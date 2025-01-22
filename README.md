@@ -1,1 +1,1 @@
-#Snake,Water,Gun and Guess Number small Game while learning python
+# Small Game while learning python
